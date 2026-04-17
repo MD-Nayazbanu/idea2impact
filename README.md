@@ -8,47 +8,82 @@ Title of your repository shall be : team-(your team name)
 
 After forking, fill in your team details below in your fork's README
 
-- **Team Name:Mahreen&sumaiya
-- **Team Lead:Mahreen
-- **Team Members:1
-  - Member 1:sumaiya
-  - Member 2:
-  - Member 3:
-  - Member 4:
+- **Team Name:idea2impact
+- **Team Lead:MD.Nayazbanu
+- **Team Members:2
+  - Member 1:MD.Nayazbanu
+  - Member 2:k.Basheer Basha
+
 
 ---
 
-
-## Getting Started
-
-### Step 1 — Fork this Repository
-- Click the **Fork** button at the top right of this page
-- Select your GitHub account to fork into
-- You will be redirected to your own copy of this repository
-
-### Step 2 — Clone your Fork Locally
-```bash
-git clone https://github.com/your-username/hackathon-repo
-cd hackathon-repo
-```
-
-### Step 3 — Start Building
-- Work on your project inside your forked repository
-- Commit and push your changes regularly
-
-```bash
-git add .
-git commit -m "Your commit message"
-git push origin main
-```
-
----
 
 ## Problem Statement
+College students are sitting on a massive pool of skills. One person codes, another designs, another
+speaks three languages. And yet everyone keeps paying for courses to learn things their
+classmates already know. There is no easy way to find out who knows what, or to reach out and set
+something up.
 
-[Write your problem statement here]
+## Solution
+
+SkillSwap connects users based on:
+- skills they can teach
+- skills they want to learn
+- availability
+- reliability score
+
+It enables:
+- smart matching
+- session scheduling
+- skill exchange tracking
+- peer feedback system
 
 ---
+## Key Features
+
+### Intelligent Matching
+- Matches users based on **mutual skill exchange**
+- Includes **availability overlap**
+- Provides **explainable reasons**
+
+### Session Requests
+- Send/receive session requests
+- Accept / Reject requests
+- Track session status
+
+### Rating System
+- Users can review each other after sessions
+- Ratings contribute to **reliability score**
+
+### Profile Management
+- Add skills to teach/learn
+- Track skills learned via platform
+- Update bio, availability, etc.
+### Reliability Score
+- Combines:
+  - user ratings
+  - session activity
+- Helps prioritize trustworthy matches
+
+---
+##Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- React Router
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+### Other Tools
+- REST APIs
+- Git & GitHub
+
+
 
 ## Submission Guidelines
 
